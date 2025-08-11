@@ -1,0 +1,6 @@
+streamlit
+pandas
+sounddevice
+vosk
+pyttsx3
+requests
