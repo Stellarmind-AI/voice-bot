@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>2-Way Voice Survey</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link href="/static/styles.css" rel="stylesheet" />
+</head>
+<body>
+  <div class="wrap">
+    <h1>🎤 2-Way Voice Survey</h1>
+    <p class="muted">Click Start once, allow mic, then speak. The bot detects pauses and continues automatically.</p>
+
+    <div class="controls">
+      <button id="startBtn">▶ Start Survey</button>
+      <button id="stopBtn" disabled>⏹ Stop</button>
+      <a href="/results" target="_blank" class="button-link">📄 View Results</a>
+    </div>
+
+    <div id="log"></div>
+  </div>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>
