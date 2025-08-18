@@ -4,3 +4,8 @@ sounddevice
 vosk
 pyttsx3
 requests
+python-dotenv
+elevenlabs
+soundfile 
+webrtcvad 
+requests 

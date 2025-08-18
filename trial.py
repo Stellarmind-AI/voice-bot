@@ -1,7 +1,4 @@
-# FIXED TIME DURATION RECORDING
-
-
-# # import streamlit as st
+# import streamlit as st
 # import pandas as pd
 # import sounddevice as sd
 # import queue
@@ -120,7 +117,7 @@ import pyttsx3
 # -------------------------
 # CONFIG
 # -------------------------
-VOSK_MODEL_PATH = "/home/hiren/Desktop/SurveyBot/models/vosk-model-small-en-us-0.15"
+VOSK_MODEL_PATH = "/home/hiren/Desktop/SurveyBot/p/voice-bot/models/vosk-model-small-en-us-0.15"
 
 OUTPUT_DIR = "survey_outputs"
 AUDIO_DIR = os.path.join(OUTPUT_DIR, "audio")
