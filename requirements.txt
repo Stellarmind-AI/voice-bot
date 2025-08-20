@@ -1,15 +1,11 @@
 flask
 flask-cors
 gunicorn
-requests
-python-dotenv
-numpy
 pandas
 soundfile
-elevenlabs
-
-
-
-
-
+requests
+python-dotenv
+gtts
+Flask
+gTTS
 
