@@ -8,4 +8,6 @@ python-dotenv
 gtts
 Flask
 gTTS
+asyncio
+edge_tts
 
